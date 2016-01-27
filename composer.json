@@ -1,0 +1,26 @@
+{
+  "name": "nquocnghia/edtubx",
+  "description": "Analyseur de l'emploi du temps de l'Université de Bordeaux",
+  "license": "MIT",
+  "keywords": [
+    "edtubx"
+  ],
+  "authors": [
+    {
+      "name": "Quoc-Nghia Nguyen",
+      "email": "niia.developer@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "eluceo/ical": "^0.9.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "QnNguyen\\EdtUbxNS\\": "src"
+    }
+  }
+}
