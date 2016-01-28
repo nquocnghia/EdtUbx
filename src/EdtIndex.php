@@ -13,6 +13,15 @@ class EdtIndex
     const SEMESTRES = ['Semestre1', 'Semestre2'];
     const URL = 'https://edt-st.u-bordeaux.fr/etudiants/'; //finder.xml
 
+    /**
+     * After fetching the remote source, this should become a 4-dimensional array
+     * 1st dimension: Licence|Master1|Master2
+     * 2nd dimension: Semestre1|Semestre2
+     * 3rd dimension: Course's code (eg. IN601)
+     * 4th dimension: <Group name>|(nothing)
+     * Example: $urls['Licence']['Semestre2']['IN601']['GROUPE A1']
+     * @var array $urls
+     */
     private static $urls = null;
 
     /**
