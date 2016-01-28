@@ -151,7 +151,8 @@ class EdtUbx
     }
 
     /**
-     * Check if $item is matched by ALL the given $criteria
+     * Check if $item is matched by ALL the given $criteria.
+     * Empty $criteria array means the $item is matched unconditionally
      *
      * Sample of $criteria:
      *
@@ -163,15 +164,12 @@ class EdtUbx
      * $criteria = '*';
      *
      * @param EdtUbxItem $item
-     * @param array|string $criteria
+     * @param array $criteria
      * @return bool
      * @throws \Exception
      */
     private function _is_matched(EdtUbxItem $item, $criteria)
     {
-        if ($criteria === '*')
-            return true;
-
         if (!is_array($criteria))
             throw new \Exception('Invalid data type: array expected');
 

@@ -12,7 +12,7 @@ class EdtUbxTest extends PHPUnit_Framework_TestCase
         $urls = $this->getUrls();
         $edt = new EdtUbx($urls['Licence']['Semestre2']['IN601']['GROUPE A1']);
         $this->assertTrue(strcmp($edt->getName(), 'Emploi du temps Groupe - IN601 GROUPE A1') === 0);
-        $this->assertCount(251, $edt->getItems()); // 27 Jan 2016 18:54
+        $this->assertCount(249, $edt->getItems()); // 27 Jan 2016 18:54
     }
 
     public function getUrls()
@@ -36,20 +36,20 @@ class EdtUbxTest extends PHPUnit_Framework_TestCase
         $edt2 = new EdtUbx($urls['Licence']['Semestre2']['IN601']['GROUPE A1']);
 
         $whiteList = [
-            'B1TR6W07' => '*' //anglais uniquement
+            'B1TR6W07' => [] //anglais uniquement
         ];
 
         $blackList = [ // anglais uniquement
-            'J1IN6011' => '*',
-            'J1IN6012' => '*',
-            'J1IN6013' => '*',
-            'J1IN6014' => '*',
-            'J1IN6016' => '*',
-            'J1IN6017' => '*',
-            'F1IN6017' => '*',
-            'N1MA6W31' => '*',
-            'J1INPW11' => '*',
-            'J1INPM01' => '*'
+            'J1IN6011' => [],
+            'J1IN6012' => [],
+            'J1IN6013' => [],
+            'J1IN6014' => [],
+            'J1IN6016' => [],
+            'J1IN6017' => [],
+            'F1IN6017' => [],
+            'N1MA6W31' => [],
+            'J1INPW11' => [],
+            'J1INPM01' => []
         ];
 
         $edt1->apply_filter($whiteList, true);

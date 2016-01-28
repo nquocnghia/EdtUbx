@@ -40,14 +40,15 @@ $edt->export($with_header = true);
 //Filtering: blacklist example
 $filter = [
     'J1IN6011' => [
-        'category' => ['in' => 'td( machine)?'], //regex accepted
+        'category' => ['in' => 'td( machine)?'], // regex accepted
         'notes' => ['notIn' => 'groupe( )?4']
-    ]
+    ],
+    'J1IN6012' => [] // empty array means uncontional matching
 ];
-$edt->apply_filter($filter); //will exclude all the classes 'TD' that is not for 'Groupe 4'
+$edt->apply_filter($filter); // will exclude all the classes J1IN6012; and J1IN6011 of category 'TD' that is not for 'Groupe 4'
 
 //Filtering: whitelist example
-$filter = ['B1TR6W07' => '*'];
+$filter = ['B1TR6W07' => []];
 $edt->apply_filter($filter, true); // will exlude all the classes except ones that have code 'B1TR6W07'
 ```
 
