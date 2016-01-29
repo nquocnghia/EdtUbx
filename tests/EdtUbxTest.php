@@ -5,22 +5,17 @@ use QnNguyen\EdtUbxNS\EdtUbx;
 
 class EdtUbxTest extends PHPUnit_Framework_TestCase
 {
-    private $urls;
+    public function testFetchUrls()
+    {
+        $urls = EdtIndex::fetch(); //Should not throw an exception
+        $this->assertArrayHasKey('IN601', $urls['Licence']['Semestre2']);
+    }
 
     public function testConstructor()
     {
-        $urls = $this->getUrls();
-        $edt = new EdtUbx($urls['Licence']['Semestre2']['IN601']['GROUPE A1']);
+        $edt = new EdtUbx('tests/IN601A1.xml');
         $this->assertTrue(strcmp($edt->getName(), 'Emploi du temps Groupe - IN601 GROUPE A1') === 0);
-        $this->assertCount(249, $edt->getItems()); // 27 Jan 2016 18:54
-    }
-
-    public function getUrls()
-    {
-        if (!isset($this->urls))
-            $this->urls = EdtIndex::fetch();
-
-        return $this->urls;
+        $this->assertCount(253, $edt->getItems());
     }
 
     public function testException()
@@ -31,9 +26,8 @@ class EdtUbxTest extends PHPUnit_Framework_TestCase
 
     public function testApplyFilter()
     {
-        $urls = $this->getUrls();
-        $edt1 = new EdtUbx($urls['Licence']['Semestre2']['IN601']['GROUPE A1']);
-        $edt2 = new EdtUbx($urls['Licence']['Semestre2']['IN601']['GROUPE A1']);
+        $edt1 = new EdtUbx('tests/IN601A1.xml');
+        $edt2 = new EdtUbx('tests/IN601A1.xml');
 
         $whiteList = [
             'B1TR6W07' => [] //anglais uniquement
@@ -53,9 +47,9 @@ class EdtUbxTest extends PHPUnit_Framework_TestCase
         ];
 
         $edt1->apply_filter($whiteList, true);
-        $this->assertCount(11, $edt1->getItems()); // 27 Jan 2016 18:54
+        $this->assertCount(11, $edt1->getItems());
 
         $edt2->apply_filter($blackList, false);
-        $this->assertCount(11, $edt2->getItems()); // 27 Jan 2016 18:54
+        $this->assertCount(11, $edt2->getItems());
     }
 }

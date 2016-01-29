@@ -1,0 +1,5121 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="0" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="g72873.xml" class="xml">Imprimer</link>
+<link href="g72873.pdf" class="pdf">Version PDF</link>
+<weeks>Semaines</weeks>
+<dates>Dates</dates>
+<week>Semaine</week>
+<date>Date</date>
+<all>Toutes les semaines</all>
+<notes>Remarques</notes>
+<id>ID</id>
+<tag>Champs Libre</tag>
+<footer>Publié le 29/01/2016 09:27:21 - Université de Bordeaux I<br />Créé par 
+<a href="http://www.celcat.com" target="_parent">CELCAT Timetabler Web Publisher</a></footer>
+<subheading>Emploi du temps Groupe - IN601 GROUPE A1</subheading></option>
+<property></property>
+<span id="0" date="28/12/2015" rawix="19" rawlen="1">
+<description>Sem 53, commençant le 28/12/2015</description>
+<title>53</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>28/12/2015</date></day>
+<day id="1">
+<name>mardi</name>
+<date>29/12/2015</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>30/12/2015</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>31/12/2015</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>01/01/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>02/01/2016</date></day></span>
+<span id="1" date="04/01/2016" rawix="20" rawlen="1">
+<description>Sem 1, commençant le 04/01/2016</description>
+<title>1</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>04/01/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>05/01/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>06/01/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>07/01/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>08/01/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>09/01/2016</date></day></span>
+<span id="2" date="11/01/2016" rawix="21" rawlen="1">
+<description>Sem 2, commençant le 11/01/2016</description>
+<title>2</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>11/01/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>12/01/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>13/01/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>14/01/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>15/01/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>16/01/2016</date></day></span>
+<span id="3" date="18/01/2016" rawix="22" rawlen="1">
+<description>Sem 3, commençant le 18/01/2016</description>
+<title>3</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>18/01/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>19/01/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>20/01/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>21/01/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>22/01/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>23/01/2016</date></day></span>
+<span id="4" date="25/01/2016" rawix="23" rawlen="1">
+<description>Sem 4, commençant le 25/01/2016</description>
+<title>4</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>25/01/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>26/01/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>27/01/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>28/01/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>29/01/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>30/01/2016</date></day></span>
+<span id="5" date="01/02/2016" rawix="24" rawlen="1">
+<description>Sem 5, commençant le 01/02/2016</description>
+<title>5</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>01/02/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>02/02/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>03/02/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>04/02/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>05/02/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>06/02/2016</date></day></span>
+<span id="6" date="08/02/2016" rawix="25" rawlen="1">
+<description>Sem 6, commençant le 08/02/2016</description>
+<title>6</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>08/02/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>09/02/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>10/02/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>11/02/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>12/02/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>13/02/2016</date></day></span>
+<span id="7" date="15/02/2016" rawix="26" rawlen="1">
+<description>Sem 7, commençant le 15/02/2016</description>
+<title>7</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>15/02/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>16/02/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>17/02/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>18/02/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>19/02/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>20/02/2016</date></day></span>
+<span id="8" date="22/02/2016" rawix="27" rawlen="1">
+<description>Sem 8, commençant le 22/02/2016</description>
+<title>8</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>22/02/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>23/02/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>24/02/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>25/02/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>26/02/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>27/02/2016</date></day></span>
+<span id="9" date="29/02/2016" rawix="28" rawlen="1">
+<description>Sem 9, commençant le 29/02/2016</description>
+<title>9</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>29/02/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>01/03/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>02/03/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>03/03/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>04/03/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>05/03/2016</date></day></span>
+<span id="10" date="07/03/2016" rawix="29" rawlen="1">
+<description>Sem 10, commençant le 07/03/2016</description>
+<title>10</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>07/03/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>08/03/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>09/03/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>10/03/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>11/03/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>12/03/2016</date></day></span>
+<span id="11" date="14/03/2016" rawix="30" rawlen="1">
+<description>Sem 11, commençant le 14/03/2016</description>
+<title>11</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>14/03/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>15/03/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>16/03/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>17/03/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>18/03/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>19/03/2016</date></day></span>
+<span id="12" date="21/03/2016" rawix="31" rawlen="1">
+<description>Sem 12, commençant le 21/03/2016</description>
+<title>12</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>21/03/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>22/03/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>23/03/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>24/03/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>25/03/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>26/03/2016</date></day></span>
+<span id="13" date="28/03/2016" rawix="32" rawlen="1">
+<description>Sem 13, commençant le 28/03/2016</description>
+<title>13</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>28/03/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>29/03/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>30/03/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>31/03/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>01/04/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>02/04/2016</date></day></span>
+<span id="14" date="04/04/2016" rawix="33" rawlen="1">
+<description>Sem 14, commençant le 04/04/2016</description>
+<title>14</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>04/04/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>05/04/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>06/04/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>07/04/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>08/04/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>09/04/2016</date></day></span>
+<span id="15" date="11/04/2016" rawix="34" rawlen="1">
+<description>Sem 15, commençant le 11/04/2016</description>
+<title>15</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>11/04/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>12/04/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>13/04/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>14/04/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>15/04/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>16/04/2016</date></day></span>
+<span id="16" date="18/04/2016" rawix="35" rawlen="1">
+<description>Sem 16, commençant le 18/04/2016</description>
+<title>16</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>18/04/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>19/04/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>20/04/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>21/04/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>22/04/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>23/04/2016</date></day></span>
+<span id="17" date="25/04/2016" rawix="36" rawlen="1">
+<description>Sem 17, commençant le 25/04/2016</description>
+<title>17</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>25/04/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>26/04/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>27/04/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>28/04/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>29/04/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>30/04/2016</date></day></span>
+<span id="18" date="02/05/2016" rawix="37" rawlen="1">
+<description>Sem 18, commençant le 02/05/2016</description>
+<title>18</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>02/05/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>03/05/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>04/05/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>05/05/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>06/05/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>07/05/2016</date></day></span>
+<span id="19" date="09/05/2016" rawix="38" rawlen="1">
+<description>Sem 19, commençant le 09/05/2016</description>
+<title>19</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>09/05/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>10/05/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>11/05/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>12/05/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>13/05/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>14/05/2016</date></day></span>
+<span id="20" date="16/05/2016" rawix="39" rawlen="1">
+<description>Sem 20, commençant le 16/05/2016</description>
+<title>20</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>16/05/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>17/05/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>18/05/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>19/05/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>20/05/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>21/05/2016</date></day></span>
+<span id="21" date="23/05/2016" rawix="40" rawlen="1">
+<description>Sem 21, commençant le 23/05/2016</description>
+<title>21</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>23/05/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>24/05/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>25/05/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>26/05/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>27/05/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>28/05/2016</date></day></span>
+<span id="22" date="30/05/2016" rawix="41" rawlen="1">
+<description>Sem 22, commençant le 30/05/2016</description>
+<title>22</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>30/05/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>31/05/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>01/06/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>02/06/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>03/06/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>04/06/2016</date></day></span>
+<span id="23" date="06/06/2016" rawix="42" rawlen="1">
+<description>Sem 23, commençant le 06/06/2016</description>
+<title>23</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>06/06/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>07/06/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>08/06/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>09/06/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>10/06/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>11/06/2016</date></day></span>
+<span id="24" date="13/06/2016" rawix="43" rawlen="1">
+<description>Sem 24, commençant le 13/06/2016</description>
+<title>24</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>13/06/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>14/06/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>15/06/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>16/06/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>17/06/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>18/06/2016</date></day></span>
+<span id="25" date="20/06/2016" rawix="44" rawlen="1">
+<description>Sem 25, commençant le 20/06/2016</description>
+<title>25</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>20/06/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>21/06/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>22/06/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>23/06/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>24/06/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>25/06/2016</date></day></span>
+<span id="26" date="27/06/2016" rawix="45" rawlen="1">
+<description>Sem 26, commençant le 27/06/2016</description>
+<title>26</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>27/06/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>28/06/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>29/06/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>30/06/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>01/07/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>02/07/2016</date></day></span>
+<span id="27" date="04/07/2016" rawix="46" rawlen="1">
+<description>Sem 27, commençant le 04/07/2016</description>
+<title>27</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>04/07/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>05/07/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>06/07/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>07/07/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>08/07/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>09/07/2016</date></day></span>
+<span id="28" date="11/07/2016" rawix="47" rawlen="1">
+<description>Sem 28, commençant le 11/07/2016</description>
+<title>28</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>11/07/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>12/07/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>13/07/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>14/07/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>15/07/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>16/07/2016</date></day></span>
+<span id="29" date="18/07/2016" rawix="48" rawlen="1">
+<description>Sem 29, commençant le 18/07/2016</description>
+<title>29</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNY</alleventweeks>
+<day id="0">
+<name>lundi</name>
+<date>18/07/2016</date></day>
+<day id="1">
+<name>mardi</name>
+<date>19/07/2016</date></day>
+<day id="2">
+<name>mercredi</name>
+<date>20/07/2016</date></day>
+<day id="3">
+<name>jeudi</name>
+<date>21/07/2016</date></day>
+<day id="4">
+<name>vendredi</name>
+<date>22/07/2016</date></day>
+<day id="5">
+<name>samedi</name>
+<date>23/07/2016</date></day></span>
+<event id="245511" colour="#A8FFA8" date="15/02/2016">
+<day>0</day>
+<prettytimes>08:00-09:20 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:20</endtime>
+<category>TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A22/ Salle 103</item></room></resources>
+<notes>OPTION<br /> GROUPE 1</notes></event>
+<event id="240001" colour="#D3A8A8" date="18/01/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="25/01/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="01/02/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="08/02/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="15/02/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="29/02/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="07/03/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="14/03/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="21/03/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="04/04/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="240001" colour="#D3A8A8" date="11/04/2016">
+<day>0</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="242965" colour="#A8FFA8" date="25/01/2016">
+<day>0</day>
+<prettytimes>09:30-10:50 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A22/ Salle 103</item></room></resources>
+<notes>OPTION<br /> GROUPE 2</notes></event>
+<event id="242965" colour="#A8FFA8" date="01/02/2016">
+<day>0</day>
+<prettytimes>09:30-10:50 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>TD</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A22/ Salle 103</item></room></resources>
+<notes>OPTION<br /> GROUPE 2</notes></event>
+<event id="242965" colour="#A8FFA8" date="08/02/2016">
+<day>0</day>
+<prettytimes>09:30-10:50 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>TD</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A22/ Salle 103</item></room></resources>
+<notes>OPTION<br /> GROUPE 2</notes></event>
+<event id="242965" colour="#A8FFA8" date="15/02/2016">
+<day>0</day>
+<prettytimes>09:30-10:50 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A22/ Salle 103</item></room></resources>
+<notes>OPTION<br /> GROUPE 2</notes></event>
+<event id="242965" colour="#A8FFA8" date="29/02/2016">
+<day>0</day>
+<prettytimes>09:30-10:50 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>TD</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A22/ Salle 103</item></room></resources>
+<notes>OPTION<br /> GROUPE 2</notes></event>
+<event id="239453" colour="#A8FFFF" date="11/01/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>2</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="18/01/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="25/01/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="01/02/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="08/02/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="15/02/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="29/02/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="07/03/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="14/03/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="21/03/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239453" colour="#A8FFFF" date="04/04/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item></group>
+<staff>
+<item>CERRI Jean-Paul</item></staff>
+<room>
+<item>A29/ Amphithéâtre E</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="241925" colour="#A8FFFF" date="11/01/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>2</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="242968" colour="#D3A8A8" date="29/02/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 TD Machine</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 2</notes></event>
+<event id="242968" colour="#D3A8A8" date="07/03/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 TD Machine</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 2</notes></event>
+<event id="242968" colour="#D3A8A8" date="14/03/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 TD Machine</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 2</notes></event>
+<event id="242968" colour="#D3A8A8" date="21/03/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 TD Machine</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 2</notes></event>
+<event id="242968" colour="#D3A8A8" date="04/04/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 TD Machine</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 2</notes></event>
+<event id="242968" colour="#D3A8A8" date="11/04/2016">
+<day>0</day>
+<prettytimes>11:00-12:20 TD Machine</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 2</notes></event>
+<event id="245007" colour="#FFA8FF" date="04/04/2016">
+<day>0</day>
+<prettytimes>13:45-15:15 DS</prettytimes>
+<starttime>13:45</starttime>
+<endtime>15:15</endtime>
+<category>DS</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/Amphithéâtre Henri POINCARE</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="11/01/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>2</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre D</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="18/01/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre A</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="25/01/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre A</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="01/02/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre A</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="08/02/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre A</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="15/02/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre A</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="29/02/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre A</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="07/03/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre A</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="14/03/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre A</item></room></resources></event>
+<event id="239942" colour="#A8FFFF" date="21/03/2016">
+<day>0</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A29/ Amphithéâtre A</item></room></resources></event>
+<event id="239976" colour="#A8FFA8" date="18/01/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239976" colour="#A8FFA8" date="25/01/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239976" colour="#A8FFA8" date="01/02/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239976" colour="#A8FFA8" date="08/02/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239976" colour="#A8FFA8" date="15/02/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239976" colour="#A8FFA8" date="29/02/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239976" colour="#A8FFA8" date="07/03/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239976" colour="#A8FFA8" date="14/03/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239976" colour="#A8FFA8" date="21/03/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239976" colour="#A8FFA8" date="04/04/2016">
+<day>0</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A21/ Salle 405</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240019" colour="#A8FFA8" date="25/01/2016">
+<day>0</day>
+<prettytimes>15:30-16:50 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>16:50</endtime>
+<category>TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A21/ Salle 401</item></room></resources>
+<notes>OPTION<br /> GROUPE 1</notes></event>
+<event id="240019" colour="#A8FFA8" date="01/02/2016">
+<day>0</day>
+<prettytimes>15:30-16:50 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>16:50</endtime>
+<category>TD</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A21/ Salle 401</item></room></resources>
+<notes>OPTION<br /> GROUPE 1</notes></event>
+<event id="240019" colour="#A8FFA8" date="08/02/2016">
+<day>0</day>
+<prettytimes>15:30-16:50 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>16:50</endtime>
+<category>TD</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A21/ Salle 401</item></room></resources>
+<notes>OPTION<br /> GROUPE 1</notes></event>
+<event id="240019" colour="#A8FFA8" date="29/02/2016">
+<day>0</day>
+<prettytimes>15:30-16:50 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>16:50</endtime>
+<category>TD</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A21/ Salle 401</item></room></resources>
+<notes>OPTION<br /> GROUPE 1</notes></event>
+<event id="245510" colour="#A8FFA8" date="25/01/2016">
+<day>0</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A21/ Salle 401</item></room></resources>
+<notes>OPTION<br /> GROUPE 1</notes></event>
+<event id="240021" colour="#D3A8A8" date="29/02/2016">
+<day>0</day>
+<prettytimes>17:00-18:20 TD Machine</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 1</notes></event>
+<event id="240021" colour="#D3A8A8" date="07/03/2016">
+<day>0</day>
+<prettytimes>17:00-18:20 TD Machine</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 1</notes></event>
+<event id="240021" colour="#D3A8A8" date="14/03/2016">
+<day>0</day>
+<prettytimes>17:00-18:20 TD Machine</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 1</notes></event>
+<event id="240021" colour="#D3A8A8" date="21/03/2016">
+<day>0</day>
+<prettytimes>17:00-18:20 TD Machine</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 1</notes></event>
+<event id="240021" colour="#D3A8A8" date="04/04/2016">
+<day>0</day>
+<prettytimes>17:00-18:20 TD Machine</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 1</notes></event>
+<event id="240021" colour="#D3A8A8" date="11/04/2016">
+<day>0</day>
+<prettytimes>17:00-18:20 TD Machine</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 1</notes></event>
+<event id="239944" colour="#A8FFA8" date="25/01/2016">
+<day>1</day>
+<prettytimes>08:00-09:20 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:20</endtime>
+<category>TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>A21/ Salle 401</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239944" colour="#A8FFA8" date="15/02/2016">
+<day>1</day>
+<prettytimes>08:00-09:20 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:20</endtime>
+<category>TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>A21/ Salle 401</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239944" colour="#A8FFA8" date="07/03/2016">
+<day>1</day>
+<prettytimes>08:00-09:20 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:20</endtime>
+<category>TD</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>A21/ Salle 401</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239944" colour="#A8FFA8" date="21/03/2016">
+<day>1</day>
+<prettytimes>08:00-09:20 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>A21/ Salle 401</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="246455" colour="#A8FFA8" date="01/02/2016">
+<day>1</day>
+<prettytimes>08:00-09:20 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:20</endtime>
+<category>TD</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>A22/ Salle 203</item></room></resources>
+<notes>GROUPE4</notes></event>
+<event id="246455" colour="#A8FFA8" date="15/02/2016">
+<day>1</day>
+<prettytimes>08:00-09:20 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:20</endtime>
+<category>TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>A22/ Salle 203</item></room></resources>
+<notes>GROUPE4</notes></event>
+<event id="246455" colour="#A8FFA8" date="14/03/2016">
+<day>1</day>
+<prettytimes>08:00-09:20 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:20</endtime>
+<category>TD</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>A22/ Salle 203</item></room></resources>
+<notes>GROUPE4</notes></event>
+<event id="246455" colour="#A8FFA8" date="21/03/2016">
+<day>1</day>
+<prettytimes>08:00-09:20 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>A22/ Salle 203</item></room></resources>
+<notes>GROUPE4</notes></event>
+<event id="239954" colour="#A8FFFF" date="11/01/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>2</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="18/01/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="25/01/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="01/02/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="08/02/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="15/02/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="29/02/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="07/03/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="14/03/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="21/03/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="28/03/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="239954" colour="#A8FFFF" date="04/04/2016">
+<day>1</day>
+<prettytimes>09:30-10:50 Cours</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:50</endtime>
+<category>Cours</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources></event>
+<event id="242836" colour="#D3A8A8" date="11/04/2016">
+<day>1</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="240020" colour="#A8FFFF" date="11/01/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>2</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="18/01/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="25/01/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 3</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="01/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 003-004</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="08/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 003-004</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="15/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 003-004</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="29/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 003-004</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="07/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 003-004</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="14/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 003-004</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="21/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 003-004</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="28/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 003-004</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240020" colour="#A8FFFF" date="04/04/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 003-004</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="11/01/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>2</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="18/01/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="25/01/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="01/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="08/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="15/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="29/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="07/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="14/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="21/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="28/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="239975" colour="#A8FFFF" date="04/04/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Salle 103</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240013" colour="#A8FFFF" date="01/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240013" colour="#A8FFFF" date="08/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240013" colour="#A8FFFF" date="15/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240013" colour="#A8FFFF" date="29/02/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240013" colour="#A8FFFF" date="07/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240013" colour="#A8FFFF" date="14/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240013" colour="#A8FFFF" date="21/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240013" colour="#A8FFFF" date="28/03/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="240013" colour="#A8FFFF" date="04/04/2016">
+<day>1</day>
+<prettytimes>11:00-12:20 Cours</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:20</endtime>
+<category>Cours</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="242381" colour="#A8FFA8" date="25/01/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>DLLC</item>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group>
+<room>
+<item>A22/ Salle 101</item></room></resources>
+<notes> Regardez l'affichage au Bâtiment A21 pour les  salles</notes></event>
+<event id="246448" colour="#A8FFA8" date="01/02/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group>
+<staff>
+<item>BENZOUBAIR Youssef</item></staff>
+<room>
+<item>A21/ Salle 308</item></room></resources></event>
+<event id="246448" colour="#A8FFA8" date="08/02/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group>
+<staff>
+<item>BENZOUBAIR Youssef</item></staff>
+<room>
+<item>A21/ Salle 308</item></room></resources></event>
+<event id="246448" colour="#A8FFA8" date="15/02/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group>
+<staff>
+<item>BENZOUBAIR Youssef</item></staff>
+<room>
+<item>A21/ Salle 308</item></room></resources></event>
+<event id="246449" colour="#A8FFA8" date="29/02/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group></resources>
+<notes>Bât A21 DLLC</notes></event>
+<event id="246449" colour="#A8FFA8" date="07/03/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group></resources>
+<notes>Bât A21 DLLC</notes></event>
+<event id="246449" colour="#A8FFA8" date="14/03/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group></resources>
+<notes>Bât A21 DLLC</notes></event>
+<event id="246449" colour="#A8FFA8" date="21/03/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group></resources>
+<notes>Bât A21 DLLC</notes></event>
+<event id="246449" colour="#A8FFA8" date="28/03/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group></resources>
+<notes>Bât A21 DLLC</notes></event>
+<event id="246449" colour="#A8FFA8" date="04/04/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group></resources>
+<notes>Bât A21 DLLC</notes></event>
+<event id="246449" colour="#A8FFA8" date="11/04/2016">
+<day>1</day>
+<prettytimes>13:20-15:20 TD</prettytimes>
+<starttime>13:20</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>B1TR6W07 Anglais S6</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item>
+<item>MA601 SERIE A (Maths Fonds)</item>
+<item>MA602 GROUPE A1 (Ingé Maths)</item></group></resources>
+<notes>Bât A21 DLLC</notes></event>
+<event id="243864" colour="#A8FFA8" date="18/01/2016">
+<day>1</day>
+<prettytimes>14:00-15:20 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>MELANCON Guy</item></staff>
+<room>
+<item>A22/ Salle 103</item></room></resources>
+<notes>OPTION<br /> GROUPE 2</notes></event>
+<event id="239999" colour="#D3A8A8" date="18/01/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="25/01/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="01/02/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="08/02/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="15/02/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="29/02/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="07/03/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="14/03/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="21/03/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="28/03/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="04/04/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239999" colour="#D3A8A8" date="11/04/2016">
+<day>1</day>
+<prettytimes>15:30-18:20 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 104</item></room></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="239943" colour="#D3A8A8" date="18/01/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="25/01/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="01/02/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="08/02/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="15/02/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="29/02/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="07/03/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="14/03/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="21/03/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="28/03/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="04/04/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239943" colour="#D3A8A8" date="11/04/2016">
+<day>2</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<staff>
+<item>DORBEC Paul</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 105</item></room></resources>
+<notes>AU CREMI OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="11/01/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>2</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="18/01/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="25/01/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="01/02/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="08/02/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="15/02/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="29/02/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="07/03/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="14/03/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="21/03/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="28/03/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239937" colour="#A8FFFF" date="04/04/2016">
+<day>2</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A9/ Amphithéâtre 1</item></room></resources>
+<notes>OPTION pour les IM600</notes></event>
+<event id="239968" colour="#BEA8D3" date="18/01/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 Cours/TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>Cours/TD</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>F1IN6017 Introduction à la robotique</item>
+<item>F1INPW12 Intro robotique</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 005</item></room></resources>
+<notes>OPTION au CREMI</notes></event>
+<event id="239968" colour="#BEA8D3" date="25/01/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 Cours/TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>Cours/TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>F1IN6017 Introduction à la robotique</item>
+<item>F1INPW12 Intro robotique</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 005</item></room></resources>
+<notes>OPTION au CREMI</notes></event>
+<event id="239968" colour="#BEA8D3" date="01/02/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 Cours/TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>Cours/TD</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>F1IN6017 Introduction à la robotique</item>
+<item>F1INPW12 Intro robotique</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 005</item></room></resources>
+<notes>OPTION au CREMI</notes></event>
+<event id="239968" colour="#BEA8D3" date="08/02/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 Cours/TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>Cours/TD</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>F1IN6017 Introduction à la robotique</item>
+<item>F1INPW12 Intro robotique</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 005</item></room></resources>
+<notes>OPTION au CREMI</notes></event>
+<event id="239968" colour="#BEA8D3" date="15/02/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 Cours/TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>Cours/TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>F1IN6017 Introduction à la robotique</item>
+<item>F1INPW12 Intro robotique</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 005</item></room></resources>
+<notes>OPTION au CREMI</notes></event>
+<event id="239968" colour="#BEA8D3" date="29/02/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 Cours/TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>Cours/TD</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>F1IN6017 Introduction à la robotique</item>
+<item>F1INPW12 Intro robotique</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 005</item></room></resources>
+<notes>OPTION au CREMI</notes></event>
+<event id="239968" colour="#BEA8D3" date="07/03/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 Cours/TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>Cours/TD</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>F1IN6017 Introduction à la robotique</item>
+<item>F1INPW12 Intro robotique</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 005</item></room></resources>
+<notes>OPTION au CREMI</notes></event>
+<event id="239968" colour="#BEA8D3" date="14/03/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 Cours/TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>Cours/TD</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>F1IN6017 Introduction à la robotique</item>
+<item>F1INPW12 Intro robotique</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION au CREMI</notes></event>
+<event id="242779" colour="#A8FFA8" date="21/03/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="242779" colour="#A8FFA8" date="28/03/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="242779" colour="#A8FFA8" date="04/04/2016">
+<day>2</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6016 Probabilités combinatoires</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 113</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="242969" colour="#A8FFA8" date="04/04/2016">
+<day>2</day>
+<prettytimes>15:30-16:50 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>16:50</endtime>
+<category>TD</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>A22/ Salle 112</item></room></resources>
+<notes>OPTION<br /> GROUPE 2</notes></event>
+<event id="242975" colour="#D3A8A8" date="04/04/2016">
+<day>2</day>
+<prettytimes>17:00-18:20 TD Machine</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 2</notes></event>
+<event id="239940" colour="#D3A8A8" date="18/01/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="25/01/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="01/02/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="08/02/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="15/02/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="29/02/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="07/03/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="14/03/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="21/03/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="28/03/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="04/04/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="239940" colour="#D3A8A8" date="11/04/2016">
+<day>3</day>
+<prettytimes>09:30-12:20 TD Machine</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 204</item></room></resources>
+<notes>OPTION pour les IM600 - AU CREMI</notes></event>
+<event id="240000" colour="#D3A8A8" date="18/01/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="01/02/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="08/02/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="15/02/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="29/02/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="07/03/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="14/03/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="21/03/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="28/03/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="04/04/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="240000" colour="#D3A8A8" date="11/04/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="246299" colour="#D3A8A8" date="25/01/2016">
+<day>3</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>ZEITOUN Marc</item></staff>
+<room>
+<item>CREMI - Bât. A28 Salle 103</item></room></resources>
+<notes>AU CREMI GROUPE4</notes></event>
+<event id="239455" colour="#A8FFA8" date="25/01/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="01/02/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="08/02/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="15/02/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="29/02/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="07/03/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="14/03/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="21/03/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="28/03/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="04/04/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="239455" colour="#A8FFA8" date="11/04/2016">
+<day>3</day>
+<prettytimes>15:30-18:20 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="233204" colour="#A8FFA8" date="25/01/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="01/02/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="08/02/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="15/02/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="29/02/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="07/03/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="14/03/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="21/03/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="28/03/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="04/04/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="233204" colour="#A8FFA8" date="11/04/2016">
+<day>3</day>
+<prettytimes>17:00-18:20 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:20</endtime>
+<category>TD</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPM01 Epistémologie, histoire</item></module>
+<group>
+<item>IM400 GROUPE A1</item>
+<item>IN400 SERIE A</item>
+<item>IN601 SERIE A</item></group></resources>
+<notes>OPTION LABRI</notes></event>
+<event id="240038" colour="#A8FFA8" date="18/01/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="25/01/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>4</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="01/02/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="08/02/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="15/02/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>7</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="29/02/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>9</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="07/03/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="14/03/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>11</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="21/03/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="28/03/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="04/04/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240038" colour="#A8FFA8" date="11/04/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="246100" colour="#A8FFA8" date="21/03/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 115</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="246100" colour="#A8FFA8" date="28/03/2016">
+<day>4</day>
+<prettytimes>09:30-12:20 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>12:20</endtime>
+<category>TD</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>N1MA6W31 Cryptographie &amp; arithméti</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 SERIE A</item></group>
+<staff>
+<item>TOSSICI Dajano</item></staff>
+<room>
+<item>A22/ Salle 115</item></room></resources>
+<notes>OPTION 2 groupes en //</notes></event>
+<event id="241930" colour="#A8FFFF" date="11/01/2016">
+<day>4</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>2</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 115</item>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="241930" colour="#A8FFFF" date="18/01/2016">
+<day>4</day>
+<prettytimes>14:00-15:20 Cours</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>Cours</category>
+<prettyweeks>3</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 SERIE A</item></group>
+<room>
+<item>A22/ Salle 115</item>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION</notes></event>
+<event id="241966" colour="#D3A8A8" date="01/02/2016">
+<day>4</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>5</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="241966" colour="#D3A8A8" date="28/03/2016">
+<day>4</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>13</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6014 IS</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>CREMI - Bât. A28 Salle 202</item></room></resources>
+<notes>OPTION AU  CREMI</notes></event>
+<event id="242796" colour="#A8FFA8" date="08/02/2016">
+<day>4</day>
+<prettytimes>14:00-16:50 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD</category>
+<prettyweeks>6</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1INPW11 IT2</item></module>
+<group>
+<item>IN601 GROUPE A1</item></group>
+<room>
+<item>A9/ Salle 104</item></room></resources></event>
+<event id="240026" colour="#A8FFA8" date="07/03/2016">
+<day>4</day>
+<prettytimes>14:00-15:20 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>10</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>A22/ Salle 117</item></room></resources>
+<notes>GROUPE4</notes></event>
+<event id="240026" colour="#A8FFA8" date="21/03/2016">
+<day>4</day>
+<prettytimes>14:00-15:20 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>12</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6012 AS et PP3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>KARDOS Féri</item></staff>
+<room>
+<item>A22/ Salle 117</item></room></resources>
+<notes>GROUPE4</notes></event>
+<event id="240025" colour="#A8FFA8" date="04/04/2016">
+<day>4</day>
+<prettytimes>14:00-15:20 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:20</endtime>
+<category>TD</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<room>
+<item>A22/ Salle 105</item></room></resources>
+<notes>OPTION AU CREMI<br />GROUPE 1</notes></event>
+<event id="242798" colour="#D3A8A8" date="11/04/2016">
+<day>4</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>AU CREMI - groupe 4</notes></event>
+<event id="245832" colour="#D3A8A8" date="11/04/2016">
+<day>4</day>
+<prettytimes>14:00-16:50 TD Machine</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>15</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6011 Algo3</item></module>
+<group>
+<item>IM600 GROUPE A1</item>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group>
+<staff>
+<item>GAVOILLE Cyril</item>
+<item>MAZOIT Frédéric</item></staff></resources>
+<notes> TP NOTE</notes></event>
+<event id="242951" colour="#D3A8A8" date="04/04/2016">
+<day>4</day>
+<prettytimes>15:30-16:50 TD Machine</prettytimes>
+<starttime>15:30</starttime>
+<endtime>16:50</endtime>
+<category>TD Machine</category>
+<prettyweeks>14</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item>J1IN6013 BD</item></module>
+<group>
+<item>IN601 GROUPE A1</item>
+<item>IN601 GROUPE A2</item>
+<item>IN601 GROUPE A3</item></group></resources>
+<notes>OPTION AU CREMI<br />GROUPE 1</notes></event></timetable>
