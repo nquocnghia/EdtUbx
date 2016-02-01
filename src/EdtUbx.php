@@ -184,9 +184,14 @@ class EdtUbx
                 if (isset($pat['in']) && !empty($pat['in'])) {
                     if (is_string($v)) {
 
-                        //It's a 'in' rule but the pattern doesn't match the subject
-                        if (preg_match('/' . $pat['in'] . '/i', $v) === 0)
+                        try {
+                            //It's a 'in' rule but the pattern doesn't match the subject
+                            if (preg_match('/' . $pat['in'] . '/i', $v) === 0)
+                                return false;
+                        } catch (\Exception $e) {
+                            //regex pattern is invalid
                             return false;
+                        }
 
                     } else if (is_array($v)) {
 
@@ -196,9 +201,14 @@ class EdtUbx
                 } else if (isset($pat['notIn']) && !empty($pat['notIn'])) {
                     if (is_string($v)) {
 
-                        //It's a 'notIn' rule but the pattern does match the subject
-                        if (preg_match('/' . $pat['notIn'] . '/i', $v) === 1)
+                        try {
+                            //It's a 'notIn' rule but the pattern does match the subject
+                            if (preg_match('/' . $pat['notIn'] . '/i', $v) === 1)
+                                return false;
+                        } catch (\Exception $e) {
+                            //regex pattern is invalid
                             return false;
+                        }
 
                     } else if (is_array($v)) {
 
