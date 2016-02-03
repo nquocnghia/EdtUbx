@@ -89,11 +89,9 @@ class EdtUbxItem
      */
     public function setName($name)
     {
-        if (strlen($name) <= 8)
-            throw new \Exception('Invalid UE name');
-
         $this->name = $name;
-        $this->code = substr($name, 0, 8);
+        //-1: special code for non-education event
+        $this->code = strlen($name) <= 8 ? -1 : substr($name, 0, 8);
     }
 
     /**
