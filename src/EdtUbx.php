@@ -128,7 +128,7 @@ class EdtUbx
      *         'category' => ['in' => 'TD'],
      *         'notes' => ['notIn' => 'Groupe [1-4]'] //regex accepted
      *     ],
-     *     'J1IN6011' => '*'
+     *     'J1IN6011' => []
      * ];
      *
      * @param array $rules
@@ -161,7 +161,7 @@ class EdtUbx
      *     'notes' => ['notIn' => 'Groupe 4']
      * ];
      *
-     * $criteria = '*';
+     * $criteria = [];
      *
      * @param EdtUbxItem $item
      * @param array $criteria

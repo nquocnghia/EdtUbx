@@ -43,7 +43,7 @@ $filter = [
         'category' => ['in' => 'td( machine)?'], // regex accepted
         'notes' => ['notIn' => 'groupe( )?4']
     ],
-    'J1IN6012' => [] // empty array means uncontional matching
+    'J1IN6012' => [] // empty array means unconditional matching
 ];
 $edt->apply_filter($filter); // will exclude all the classes J1IN6012; and J1IN6011 of category 'TD' that is not for 'Groupe 4'
 

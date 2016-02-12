@@ -5,13 +5,13 @@ namespace QnNguyen\EdtUbxNS;
 
 class EdtIndex
 {
-    const FILIERES = [
+    private static $FILIERES = [
         'Licence' => 'Licence',
         'Master1' => 'Master/Master1',
         'Master2' => 'Master/Master2'
     ];
-    const SEMESTRES = ['Semestre1', 'Semestre2'];
-    const URL = 'https://edt-st.u-bordeaux.fr/etudiants/'; //finder.xml
+    private static $SEMESTRES = ['Semestre1', 'Semestre2'];
+    private static $URL = 'https://edt-st.u-bordeaux.fr/etudiants/'; //finder.xml
 
     /**
      * After fetching the remote source, this should become a 4-dimensional array
@@ -42,9 +42,9 @@ class EdtIndex
         if (is_null(self::$urls)) {
             self::$urls = [];
 
-            foreach (self::FILIERES as $f => $f_seg) {
-                foreach (self::SEMESTRES as $sem) {
-                    $urlPrefix = self::URL . $f_seg . '/' . $sem;
+            foreach (self::$FILIERES as $f => $f_seg) {
+                foreach (self::$SEMESTRES as $sem) {
+                    $urlPrefix = self::$URL . $f_seg . '/' . $sem;
                     $url = $urlPrefix . '/finder.xml';
 
                     //download timetable from url
