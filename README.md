@@ -3,7 +3,7 @@ University of Bordeaux's timetable parser
 
 With this library, you can easily fetch new timetable from Ubx's server, filter it by excluding classes and export it to iCalendar (.ics) format.
 
-[![Build Status](https://travis-ci.org/nquocnghia/BdxCalendar.svg?branch=master)](https://travis-ci.org/nquocnghia/BdxCalendar)
+[![Build Status](https://travis-ci.org/nquocnghia/EdtUbx.svg?branch=master)](https://travis-ci.org/nquocnghia/EdtUbx)
 
 ### Installation
 
