@@ -35,6 +35,10 @@ $url = $urls['Licence']['Semestre2']['IN601']['GROUPE A1']
 ```php
 //Init EdtUbx object
 $edt = new \QnNguyen\EdtUbxNS\EdtUbx($url);
+//or
+$edt = new \QnNguyen\EdtUbxNS\EdtUbx($url, [
+    'code' => 'new name'
+]);
 
 //Export to ics format
 $edt->export($with_header = true);
