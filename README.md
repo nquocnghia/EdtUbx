@@ -47,7 +47,7 @@ $filter = [
     ],
     'J1IN6012' => [] // empty array means unconditional matching
 ];
-$edt->apply_filter($filter); // will exclude all the classes J1IN6012; and J1IN6011 of category 'TD' that is not for 'Groupe 4'
+$edt->apply_filter($filter); // will exclude all the classes J1IN6012; and J1IN6011 of category 'TD' that are not for 'Groupe 4'
 
 //Filtering: whitelist example
 $filter = ['B1TR6W07' => []];

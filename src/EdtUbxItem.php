@@ -48,13 +48,13 @@ class EdtUbxItem
 
     /**
      * EdtUbxItem constructor.
-     * @param $name
+     * @param $code
      * @param DateTime $dtStart
      * @param DateTime $dtEnd
      */
-    public function __construct($name, DateTime $dtStart, DateTime $dtEnd)
+    public function __construct($code, DateTime $dtStart, DateTime $dtEnd)
     {
-        $this->setName($name);
+        $this->setCode($code);
         $this->dtStart = $dtStart;
         $this->dtEnd = $dtEnd;
     }
@@ -90,8 +90,6 @@ class EdtUbxItem
     public function setName($name)
     {
         $this->name = $name;
-        //-1: special code for non-education event
-        $this->code = strlen($name) <= 8 ? -1 : substr($name, 0, 8);
     }
 
     /**

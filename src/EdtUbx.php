@@ -15,9 +15,10 @@ class EdtUbx
     /**
      * EdtUbx constructor.
      * @param $url string
+     * @param array $name_map
      * @throws \Exception
      */
-    public function __construct($url)
+    public function __construct($url, $name_map = [])
     {
         //download timetable from url
         $xml = file_get_contents($url);
@@ -51,8 +52,14 @@ class EdtUbx
                 , new \DateTimeZone(self::$timezone));
             $dtEnd->add($interval);
 
+            //extract event code
+            $full_name = (string)$ev->resources->module->item;
+            $code = preg_match('/^[A-Z0-9]{8}/', $full_name) === 0 ? -1 : substr($full_name, 0, 8);
+            $name = isset($name_map[strval($code)]) ? $name_map[$code] : $full_name;
+
             //init event attributes
-            $item = new EdtUbxItem((string)$ev->resources->module->item, $dtStart, $dtEnd);
+            $item = new EdtUbxItem($code, $dtStart, $dtEnd);
+            $item->setName($name);
             $item->setCategory((string)$ev->category);
             $item->setProfs((array)$ev->resources->staff->item);
             $item->setLocations((array)$ev->resources->room->item);
