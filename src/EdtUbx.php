@@ -191,35 +191,41 @@ class EdtUbx
                 if (isset($pat['in']) && !empty($pat['in'])) {
                     if (is_string($v)) {
 
-                        try {
-                            //It's a 'in' rule but the pattern doesn't match the subject
-                            if (preg_match('/' . $pat['in'] . '/i', $v) === 0)
-                                return false;
-                        } catch (\Exception $e) {
-                            //regex pattern is invalid
+                        //It's a 'in' rule but the pattern doesn't match the subject
+                        if ($this->_regex_test($pat['in'], $v) === false)
                             return false;
-                        }
 
                     } else if (is_array($v)) {
+                        $found = false;
 
-                        if (!in_array($pat['in'], $v))
+                        foreach ($v as $array_item) {
+                            if ($this->_regex_test($pat['in'], $array_item) === true) {
+                                $found = true;
+                                break;
+                            }
+                        }
+
+                        if (!$found)
                             return false;
                     }
                 } else if (isset($pat['notIn']) && !empty($pat['notIn'])) {
                     if (is_string($v)) {
 
-                        try {
-                            //It's a 'notIn' rule but the pattern does match the subject
-                            if (preg_match('/' . $pat['notIn'] . '/i', $v) === 1)
-                                return false;
-                        } catch (\Exception $e) {
-                            //regex pattern is invalid
+                        //It's a 'notIn' rule but the pattern does match the subject
+                        if ($this->_regex_test($pat['notIn'], $v) === true)
                             return false;
-                        }
 
                     } else if (is_array($v)) {
+                        $found = false;
 
-                        if (in_array($pat['notIn'], $v))
+                        foreach ($v as $array_item) {
+                            if ($this->_regex_test($pat['notIn'], $array_item) === true) {
+                                $found = true;
+                                break;
+                            }
+                        }
+
+                        if ($found)
                             return false;
                     }
                 }
@@ -228,6 +234,16 @@ class EdtUbx
 
         //All good
         return true;
+    }
+
+    private function _regex_test($pattern, $value)
+    {
+        try {
+            return preg_match('/' . $pattern . '/i', $value) === 1;
+        } catch (\Exception $e) {
+            //regex pattern is invalid
+            return false;
+        }
     }
 
     /**
