@@ -48,10 +48,12 @@ class EdtIndex
                     $url = $urlPrefix . '/finder.xml';
 
                     //download timetable from url
-                    $xml = file_get_contents($url);
+                    $xml = @file_get_contents($url);
 
-                    if ($xml === false) //download failed
-                        throw new \Exception('Download failed: ' . $url);
+                    if ($xml === false) { //download failed
+                        error_log('Download failed: ' . $url);
+                        continue;
+                    }
 
                     //parse downloaded file
                     $parser = simplexml_load_string($xml);

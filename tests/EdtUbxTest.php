@@ -8,7 +8,8 @@ class EdtUbxTest extends PHPUnit_Framework_TestCase
     public function testFetchUrls()
     {
         $urls = EdtIndex::fetch(); //Should not throw an exception
-        $this->assertArrayHasKey('IN601', $urls['Licence']['Semestre2']);
+        $this->assertArrayHasKey('Licence', $urls);
+        $this->assertArrayHasKey('Semestre1', $urls['Licence']);
     }
 
     public function testConstructor()
