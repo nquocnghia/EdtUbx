@@ -96,15 +96,18 @@ Un étudiant en L3 veut exclure de son emploi du temps:
 * tous les **TD** de l'UE `J1IN6011` qui ne sont pas pour le **groupe 4**
 
 ```php
+// !(J1IN6012 || (J1IN6011 && td && groupe4))
 $filteredEdt = $edt->filtrer(
-    CF::_or(
-        CF::_string('code', 'J1IN6012'),
-        CF::_and(
-            CF::_string('code', 'J1IN6011'),
-            CF::_string('category', 'td( machine)?'),
-            CF::_string('notes', 'groupe( )?4')
-            // bien lu, parfois le groupe est indiqué dans 'notes'
-            // et non pas dans 'groupes' T_T
+    CF::_not(
+        CF::_or(
+            CF::_string('code', 'J1IN6012'),
+            CF::_and(
+                CF::_string('code', 'J1IN6011'),
+                CF::_string('category', 'td( machine)?'),
+                CF::_string('notes', 'groupe( )?4')
+                // bien lu, parfois le groupe est indiqué dans 'notes'
+                // et non pas dans 'groupes' T_T
+            )
         )
     )
 );
