@@ -87,7 +87,7 @@ class CF {
 }
 ```
 
-L'objet de type `EdtUbx` permet donc de filtrer l'emploi du temps avec la méthode `filtrer(ICondition $condition)`. Le résultat renvoyé sera la copie filtrée de l'emploi du temps courant.
+L'objet de type `EdtUbx` permet donc de filtrer l'emploi du temps avec la méthode `filter(ICondition $condition)`. Le résultat renvoyé sera la copie filtrée de l'emploi du temps courant.
 
 ###### Exemple de filtrage
 
@@ -97,7 +97,7 @@ Un étudiant en L3 veut exclure de son emploi du temps:
 
 ```php
 // !(J1IN6012 || (J1IN6011 && td && groupe4))
-$filteredEdt = $edt->filtrer(
+$filteredEdt = $edt->filter(
     CF::_not(
         CF::_or(
             CF::_string('code', 'J1IN6012'),
