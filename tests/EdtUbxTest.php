@@ -1,7 +1,8 @@
 <?php
 
-use QnNguyen\EdtUbxNS\EdtIndex;
-use QnNguyen\EdtUbxNS\EdtUbx;
+use QnNguyen\EdtUbxNS\Condition\CF;
+use QnNguyen\EdtUbxNS\Core\EdtIndex;
+use QnNguyen\EdtUbxNS\Core\EdtUbx;
 
 class EdtUbxTest extends PHPUnit_Framework_TestCase
 {
@@ -14,7 +15,7 @@ class EdtUbxTest extends PHPUnit_Framework_TestCase
 
     public function testConstructor()
     {
-        $edt = new EdtUbx('tests/IN601A1.xml');
+        $edt = EdtUbx::makeFromUrl('tests/IN601A1.xml');
         $this->assertTrue(strcmp($edt->getName(), 'Emploi du temps Groupe - IN601 GROUPE A1') === 0);
         $this->assertCount(253, $edt->getItems());
     }
@@ -22,35 +23,33 @@ class EdtUbxTest extends PHPUnit_Framework_TestCase
     public function testException()
     {
         $this->setExpectedException('Exception');
-        new EdtUbx('http://www.disvu.u-bordeaux1.fr/et/edt_etudiants2/Licence/Semestre2/g72873.pdf');
+        EdtUbx::makeFromUrl('http://www.disvu.u-bordeaux1.fr/et/edt_etudiants2/Licence/Semestre2/g72873.pdf');
     }
 
     public function testApplyFilter()
     {
-        $edt1 = new EdtUbx('tests/IN601A1.xml');
-        $edt2 = new EdtUbx('tests/IN601A1.xml');
+        $edt = EdtUbx::makeFromUrl('tests/IN601A1.xml');
 
-        $whiteList = [
-            'B1TR6W07' => [] //anglais uniquement
-        ];
+        // anglais uniquement
+        $whiteList = CF::_string('code', 'B1TR6W07');
 
-        $blackList = [ // anglais uniquement
-            'J1IN6011' => [],
-            'J1IN6012' => [],
-            'J1IN6013' => [],
-            'J1IN6014' => [],
-            'J1IN6016' => [],
-            'J1IN6017' => [],
-            'F1IN6017' => [],
-            'N1MA6W31' => [],
-            'J1INPW11' => [],
-            'J1INPM01' => []
-        ];
+        $this->assertCount(11, $edt->filter($whiteList)->getItems());
 
-        $edt1->apply_filter($whiteList, true);
-        $this->assertCount(11, $edt1->getItems());
+        // anglais uniquement
+        $blackList = CF::_not(
+            CF::_or(
+                CF::_string('code', 'J1IN6011'),
+                CF::_string('code', 'J1IN6012'),
+                CF::_string('code', 'J1IN6013'),
+                CF::_string('code', 'J1IN6014'),
+                CF::_string('code', 'J1IN6016'),
+                CF::_string('code', 'J1IN6017'),
+                CF::_string('code', 'F1IN6017'),
+                CF::_string('code', 'N1MA6W31'),
+                CF::_string('code', 'J1INPW11'),
+                CF::_string('code', 'J1INPM01')
+            ));
 
-        $edt2->apply_filter($blackList, false);
-        $this->assertCount(11, $edt2->getItems());
+        $this->assertCount(11, $edt->filter($blackList)->getItems());
     }
 }

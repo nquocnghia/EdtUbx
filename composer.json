@@ -12,7 +12,8 @@
     }
   ],
   "require": {
-    "php": ">=5.5, <7",
+    "php": ">=5.6",
+    "ext-xml": "*",
     "eluceo/ical": "^0.8.0"
   },
   "require-dev": {

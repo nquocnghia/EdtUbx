@@ -1,6 +1,6 @@
 <?php
 
-namespace QnNguyen\EdtUbxNS;
+namespace QnNguyen\EdtUbxNS\Core;
 
 
 class EdtIndex
@@ -51,7 +51,7 @@ class EdtIndex
                     $xml = @file_get_contents($url);
 
                     if ($xml === false) { //download failed
-                        error_log('Download failed: ' . $url);
+                        error_log("Download failed: $url, maybe $sem is not available yet.");
                         continue;
                     }
 

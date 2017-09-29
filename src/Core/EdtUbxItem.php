@@ -1,6 +1,6 @@
 <?php
 
-namespace QnNguyen\EdtUbxNS;
+namespace QnNguyen\EdtUbxNS\Core;
 
 use DateTime;
 
